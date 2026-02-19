@@ -23,3 +23,5 @@ flutter run
 - iOS/Android izin aciklama metinleri eklendi
 
 Canli yayina cikmadan once gercek marka adi, ikonlar, ekran goruntuleri ve imzalama ayarlari tamamlanmalidir.
+
+
